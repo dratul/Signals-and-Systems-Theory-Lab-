@@ -1,4 +1,4 @@
-# Experiment 3 :
+# Lab 3_1 :
 ## Aim : To perform Basic Operations on Continuous time Signals
 ## Software used  : Python
 ## IDE : Google Colab
@@ -14,11 +14,11 @@ Semester : 4
 
 Lab: Signals and Systems (KEC 451)
 
-Date of Completion 15/02/2023
+Date of Completion 
 
 
 
-# Experiment 3.1 : To perform addition of two continuous time sinusoidal Signal
+# Program 1 : To perform addition of two continuous time sinusoidal Signal
  $x_1(t)= sinΠ t$ in 0≤t≤2
 
   $x_2(t)= sin50Π t$ in 0≤t≤2
@@ -99,7 +99,7 @@ ax3.text(2, 0.9, 'Sum signal', fontsize=14)
     
 
 
-# Experiment 3.2 To visualize subtraction of two signals
+# Program 2 To visualize subtraction of two signals
 
 
 ```python
@@ -163,7 +163,7 @@ plt.grid()
     
 
 
-# Experiment 3.4 To generate and visualize time shifting of unit impulse signal
+# Program 3 To generate and visualize time shifting of unit impulse signal
 $\delta[t]$
 
 
@@ -192,10 +192,6 @@ plt.title('Unit Impulse $\delta[t-4]$')
 #plt.savefig("UnitImpulse.png")
 ```
 
-    <ipython-input-5-90fac7cc70d0>:16: UserWarning: In Matplotlib 3.3 individual lines on a stem plot will be added as a LineCollection instead of individual lines. This significantly improves the performance of a stem plot. To remove this warning and switch to the new behaviour, set the "use_line_collection" keyword argument to True.
-      plt.stem(t, d)
-    
-
 
 
 
@@ -205,11 +201,11 @@ plt.title('Unit Impulse $\delta[t-4]$')
 
 
     
-![png](output_9_2.png)
+![png](output_9_1.png)
     
 
 
-# Experiment 3.5 : To visualize time scaling of exponential signal $e^{at}$
+# Program 4 : To visualize time scaling of exponential signal $e^{at}$
 
 
 ```python
@@ -245,7 +241,7 @@ plt.grid()
     
 
 
-# Experiment 3.6 : To visualize frequency scaling of sinusoidal signals
+# Program 5 : To visualize frequency scaling of sinusoidal signals
 
 
 ```python
@@ -287,7 +283,7 @@ plt.show()
     
 
 
-# Experiment 3.7 : To visualize log operation of signals
+# Program 6 : To visualize log operation of signals
 
 
 ```python
