@@ -126,7 +126,7 @@ plt.show()
     
 
 
-#Experiment 3.3 To visualize time shifting of a unit step signal
+# Program 3 To visualize time shifting of a unit step signal
 
 
 ```python
