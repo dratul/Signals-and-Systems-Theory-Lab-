@@ -1,7 +1,8 @@
 # Unit :1 Introduction of Signals
 
 ### Lec-01 : Introduction of the subject
-https://youtu.be/c4fokfiygBU?list=PLKy7tXMLcgM1pjSFrbdQ1-prfhRVv4qMj
+[![History of Signals](http://img.youtube.com/vi/c4fokfiygBU?list=PLKy7tXMLcgM1pjSFrbdQ1-prfhRVv4qMj/0.jpg)](https://youtu.be/c4fokfiygBU?list=PLKy7tXMLcgM1pjSFrbdQ1-prfhRVv4qMj "History of Signals")
+
 
 
 ## 02 : Elementry Signals
