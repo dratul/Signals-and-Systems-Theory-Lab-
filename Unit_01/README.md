@@ -1,7 +1,7 @@
 # Unit :1 Introduction of Signals
 
 ### Lec-01 : Introduction of the subject
-[![History of Signals](http://img.youtube.com/vi/c4fokfiygBU?list=PLKy7tXMLcgM1pjSFrbdQ1-prfhRVv4qMj/0.jpg)](https://youtu.be/c4fokfiygBU?list=PLKy7tXMLcgM1pjSFrbdQ1-prfhRVv4qMj "History of Signals")
+[![History of Signals](http://img.youtube.com/vi/RGQL9oDVZF8&list=PLKy7tXMLcgM1pjSFrbdQ1-prfhRVv4qMj&index=2/0.jpg)](https://youtu.be/c4fokfiygBU?list=PLKy7tXMLcgM1pjSFrbdQ1-prfhRVv4qMj "History of Signals")
 
 
 
