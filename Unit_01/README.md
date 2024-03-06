@@ -1,7 +1,7 @@
 # Unit :1 Introduction of Signals
 
 ## 01 : Introduction of the subject
-[![Click here to watch on Youtube](http://img.youtube.com/vi/RGQL9oDVZF8&list=PLKy7tXMLcgM1pjSFrbdQ1-prfhRVv4qMj&index=2/maxresdefault.jpg.jpg)](https://youtu.be/c4fokfiygBU?list=PLKy7tXMLcgM1pjSFrbdQ1-prfhRVv4qMj "History of Signals")
+[![Click here to watch on Youtube](http://img.youtube.com/vi/RGQL9oDVZF8&list=PLKy7tXMLcgM1pjSFrbdQ1-prfhRVv4qMj/maxresdefault.jpg.jpg)](https://youtu.be/c4fokfiygBU?list=PLKy7tXMLcgM1pjSFrbdQ1-prfhRVv4qMj "History of Signals")
 
 
 
