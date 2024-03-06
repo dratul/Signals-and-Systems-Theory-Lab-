@@ -33,6 +33,7 @@
 ### Camparison
 ### Correlation/decorrelation
 ### Amplitude related
+### Superposition operation
 
 
 ## 05 : Signal Representation
