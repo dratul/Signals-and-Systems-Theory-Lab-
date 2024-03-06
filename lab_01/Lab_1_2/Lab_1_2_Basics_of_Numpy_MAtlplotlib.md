@@ -1,4 +1,4 @@
-# Lab 1.2 – NumPy for Data-Processing
+# Lab 1.2 – NumPy and Matplotlib for Data-Processing and visualization
 
 
 ## *Aim* : To understand basics of `Numpy` Python library for Signals and systems Lab. 
@@ -695,7 +695,44 @@ newarr = np.intersect1d(arr1, arr2)
 print(newarr)
 ```
 
-# References
+## Matplotlib 
+
+
+```python
+import matplotlib.pyplot as plt
+# Data for visualization
+names = ['John', 'Alice', 'Bob', 'Eve']
+ages = [25, 30, 28, 35]
+salaries = [50000, 60000, 55000, 70000]
+# Bar chart for salaries
+plt.bar(names, salaries, color='blue')
+plt.xlabel('Names')
+plt.ylabel('Salaries')
+plt.title('Salaries of Employees')
+plt.show()
+# Scatter plot for ages and salaries
+plt.scatter(ages, salaries, color='red')
+plt.xlabel('Ages')
+plt.ylabel('Salaries')
+plt.title('Scatter Plot: Ages vs Salaries')
+plt.show()
+```
+
+
+    
+![png](output_107_0.png)
+    
+
+
+
+    
+![png](output_107_1.png)
+    
+
+
+## Practice Programs
+### Program 1 : write a program to draw a line plot $y=x^2$ using Matplotlib library of python
+## References
 * https://github.com/donnemartin/data-science-ipython-notebooks/tree/master/numpy
 
 * [A Visual Intro to NumPy and Data Representation](http://jalammar.github.io/visual-numpy/)
