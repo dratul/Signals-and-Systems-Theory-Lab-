@@ -1,10 +1,11 @@
-# Lab 3_1 :
+# Lab : Signals and systems
 ## Aim : To perform Basic Operations on Continuous time Signals
 ## Software used  : Python
 ## IDE : Google Colab
+## Libraries used : Numpy, Matlplotlib
 
 # Completed By
-Name : Atul Kumar Dwivedi
+Student Name : 
 
 Roll Number :11111111
 
@@ -12,7 +13,7 @@ Branch : Electronics and Communication Engineering
 
 Semester : 4
 
-Lab: Signals and Systems (KEC 451)
+Lab: Signals and Systems (BEC 451)
 
 Date of Completion 
 
@@ -126,7 +127,7 @@ plt.show()
     
 
 
-# Program 3 To visualize time shifting of a unit step signal
+## Program 3 To visualize time shifting of a unit step signal
 
 
 ```python
@@ -163,8 +164,7 @@ plt.grid()
     
 
 
-# Program 3 To generate and visualize time shifting of unit impulse signal
-$\delta[t]$
+## Program 4 To generate and visualize time shifting of unit impulse signal $\delta[t]$
 
 
 ```python
@@ -205,7 +205,7 @@ plt.title('Unit Impulse $\delta[t-4]$')
     
 
 
-# Program 4 : To visualize time scaling of exponential signal $e^{at}$
+## Program 5 : To visualize time scaling of exponential signal $e^{at}$
 
 
 ```python
@@ -241,7 +241,7 @@ plt.grid()
     
 
 
-# Program 5 : To visualize frequency scaling of sinusoidal signals
+## Program 6 : To visualize frequency scaling of sinusoidal signals
 
 
 ```python
@@ -283,7 +283,7 @@ plt.show()
     
 
 
-# Program 6 : To visualize log operation of signals
+## Program 7 : To visualize log operation of signals
 
 
 ```python
