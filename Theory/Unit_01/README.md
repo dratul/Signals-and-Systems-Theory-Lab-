@@ -30,9 +30,10 @@
 ### Boolean
 ### Time related
 ### Convolution/deconvolution
+### Convolution with strides
 ### Camparison
 ### Correlation/decorrelation
-### Amplitude related
+### Amplitude related operations
 
 
 ## 05 : Signal Representation
@@ -41,9 +42,44 @@
 ### using arrays/tables
 ### using other signals
 
-
-
 ## 06 : Signal Classification
+### 1. Based on number of sources
+#### Single channel
+#### Multi channel
+### 2. Based on no of dependent variables
+#### One dimensional
+#### Two dimensional
+#### Three dimensional
+#### Four dimensional
+### 3. Based on nature of sampling
+#### Analog/continuous
+#### Discrete
+#### Digital
+### 4. Based on nature of variable
+#### Deterministic
+#### random
+### 5. Based on nature of variable
+#### Stationary
+#### Non-Stationary
+6. Based on repetition
+Periodic 
+Aperiodic
+7. Based on Symmetry
+Even and
+odd
+8. Based on Energy/power
+Energy
+Power
+9. Based on Causality
+Causal
+Anti Causal
+Non-causal
+
+10. Based on Statistical Nature
+Stationary
+Non stationary
+
+
 
 
  
