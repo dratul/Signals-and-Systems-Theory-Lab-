@@ -30,9 +30,12 @@
 [Youtube Link](https://youtu.be/RGQL9oDVZF8?si=4vG_unILMjUJbPHD)
 ### Gaussian signal
 [Youtube Link](https://youtu.be/RGQL9oDVZF8?si=4vG_unILMjUJbPHD)
-
+### Exponential signal
+[Youtube Link](https://youtu.be/RGQL9oDVZF8?si=4vG_unILMjUJbPHD)
 
 ## 03 : Properties of impulse Signals
+[Youtube Link](https://youtu.be/cGdJjHW9_JI?si=fsByHendYA0KJ4x2)
+
 ### Numerical problems practice
 ### Unit impulse
 ### Unit ramp etc
