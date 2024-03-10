@@ -37,14 +37,19 @@
 [Youtube Link](https://youtu.be/cGdJjHW9_JI?si=fsByHendYA0KJ4x2)
 
 ### Numerical problems practice
-### Unit impulse
-### Unit ramp etc
+[Youtube Link](https://youtu.be/tOT5w6fVyYY?si=Y6QzAQ5G2GC7z3f2)
 
 ## 04 : Signal operations
+
 ### Arithmatic operations 
+
 ### Boolean
+
 ### Time related
+
 ### Convolution/deconvolution
+[Youtube Link](https://youtu.be/_rghMNcWfQ0?si=tQmezLBVrxXgTWOw)
+
 ### Convolution with strides
 ### Camparison
 ### Correlation/decorrelation
