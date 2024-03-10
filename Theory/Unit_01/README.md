@@ -1,11 +1,11 @@
 # Unit :1 Introduction of Signals
 
 ## 01 : Introduction of the subject
-[![Click here to watch on Youtube](http://img.youtube.com/vi/RGQL9oDVZF8&list=PLKy7tXMLcgM1pjSFrbdQ1-prfhRVv4qMj&index=2/maxresdefault.jpg.jpg)](https://youtu.be/c4fokfiygBU?list=PLKy7tXMLcgM1pjSFrbdQ1-prfhRVv4qMj "History of Signals")
-
+[![Click here to watch on Youtube](http://img.youtube.com/vi/RGQL9oDVZF8&list=PLKy7tXMLcgM1pjSFrbdQ1-prfhRVv4qMj&index=2/01.jpg.jpg)](https://youtu.be/c4fokfiygBU?list=PLKy7tXMLcgM1pjSFrbdQ1-prfhRVv4qMj "History of Signals")
 
 
 ## 02 : Elementry Signals
+[Youtube Link](https://youtu.be/RGQL9oDVZF8?si=4vG_unILMjUJbPHD)
 ### Unit impulse signal
 ### Unit step
 ### Unit impulse
