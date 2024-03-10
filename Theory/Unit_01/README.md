@@ -7,17 +7,29 @@
 ## 02 : Elementry Signals
 [Youtube Link](https://youtu.be/RGQL9oDVZF8?si=4vG_unILMjUJbPHD)
 ### Unit impulse signal
+[Youtube Link](https://youtu.be/RGQL9oDVZF8?si=4vG_unILMjUJbPHD)
 ### Unit step
+[Youtube Link](https://youtu.be/RGQL9oDVZF8?si=4vG_unILMjUJbPHD)
 ### Unit impulse
+[Youtube Link](https://youtu.be/RGQL9oDVZF8?si=4vG_unILMjUJbPHD)
 ### Unit ramp etc
+[Youtube Link](https://youtu.be/RGQL9oDVZF8?si=4vG_unILMjUJbPHD)
 ### Unit parabolic
+[Youtube Link](https://youtu.be/RGQL9oDVZF8?si=4vG_unILMjUJbPHD)
 ### Rectangular signal
+[Youtube Link](https://youtu.be/RGQL9oDVZF8?si=4vG_unILMjUJbPHD)
 ### Triangular signal
+[Youtube Link](https://youtu.be/RGQL9oDVZF8?si=4vG_unILMjUJbPHD)
 ### Signum Signal
+[Youtube Link](https://youtu.be/RGQL9oDVZF8?si=4vG_unILMjUJbPHD)
 ### Sine signal
+[Youtube Link](https://youtu.be/RGQL9oDVZF8?si=4vG_unILMjUJbPHD)
 ### Cosine
+[Youtube Link](https://youtu.be/RGQL9oDVZF8?si=4vG_unILMjUJbPHD)
 ### Sinc Signal
+[Youtube Link](https://youtu.be/RGQL9oDVZF8?si=4vG_unILMjUJbPHD)
 ### Gaussian signal
+[Youtube Link](https://youtu.be/RGQL9oDVZF8?si=4vG_unILMjUJbPHD)
 
 
 ## 03 : Properties of impulse Signals
