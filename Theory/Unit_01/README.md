@@ -61,23 +61,23 @@
 ### 5. Based on nature of variable
 #### Stationary
 #### Non-Stationary
-6. Based on repetition
-Periodic 
-Aperiodic
-7. Based on Symmetry
-Even and
-odd
-8. Based on Energy/power
-Energy
-Power
-9. Based on Causality
-Causal
-Anti Causal
-Non-causal
+### 6. Based on repetition
+#### Periodic 
+#### Aperiodic
+### 7. Based on Symmetry
+#### Even and
+#### odd
+### 8. Based on Energy/power
+#### Energy
+#### Power
+### 9. Based on Causality
+#### Causal
+#### Anti Causal
+#### Non-causal
 
-10. Based on Statistical Nature
-Stationary
-Non stationary
+### 10. Based on Statistical Nature
+#### Stationary
+#### Non stationary
 
 
 
