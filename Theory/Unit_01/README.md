@@ -66,24 +66,39 @@
 ### 1. Based on number of sources
 #### Single channel
 #### Multi channel
+[Youtube Link](https://youtu.be/zvSVYHvD_gc?si=KMNZtI6p-vMm0dmW)
 ### 2. Based on no of dependent variables
 #### One dimensional
+[Youtube Link](https://youtu.be/zvSVYHvD_gc?si=KMNZtI6p-vMm0dmW)
 #### Two dimensional
+[Youtube Link](https://youtu.be/zvSVYHvD_gc?si=KMNZtI6p-vMm0dmW)
 #### Three dimensional
+[Youtube Link](https://youtu.be/zvSVYHvD_gc?si=KMNZtI6p-vMm0dmW)
 #### Four dimensional
+[Youtube Link](https://youtu.be/zvSVYHvD_gc?si=KMNZtI6p-vMm0dmW)
 ### 3. Based on nature of sampling
 #### Analog/continuous
+[Youtube Link](https://youtu.be/zvSVYHvD_gc?si=KMNZtI6p-vMm0dmW)
 #### Discrete
+[Youtube Link](https://youtu.be/zvSVYHvD_gc?si=KMNZtI6p-vMm0dmW)
 #### Digital
+[Youtube Link](https://youtu.be/zvSVYHvD_gc?si=KMNZtI6p-vMm0dmW)
 ### 4. Based on nature of variable
 #### Deterministic
+[Youtube Link](https://youtu.be/zvSVYHvD_gc?si=KMNZtI6p-vMm0dmW)
 #### random
+[Youtube Link](https://youtu.be/zvSVYHvD_gc?si=KMNZtI6p-vMm0dmW)
 ### 5. Based on nature of variable
 #### Stationary
+[Youtube Link](https://youtu.be/yq38JyePMd0?si=h83Kuxg30nai2O82)
 #### Non-Stationary
+[Youtube Link](https://youtu.be/yq38JyePMd0?si=h83Kuxg30nai2O82)
 ### 6. Based on repetition
 #### Periodic 
+[Youtube Link](https://youtu.be/zvSVYHvD_gc?si=KMNZtI6p-vMm0dmW)
+
 #### Aperiodic
+[Youtube Link](https://youtu.be/zvSVYHvD_gc?si=KMNZtI6p-vMm0dmW)
 ### 7. Based on Symmetry
 #### Even and
 #### odd
