@@ -3,7 +3,6 @@
 ## 01 : Introduction of the subject
 [![Click here to watch on Youtube](http://img.youtube.com/vi/RGQL9oDVZF8&list=PLKy7tXMLcgM1pjSFrbdQ1-prfhRVv4qMj&index=2/01.jpg.jpg)](https://youtu.be/c4fokfiygBU?list=PLKy7tXMLcgM1pjSFrbdQ1-prfhRVv4qMj "History of Signals")
 
-
 ## 02 : Elementry Signals
 [Youtube Link](https://youtu.be/RGQL9oDVZF8?si=4vG_unILMjUJbPHD)
 ### Unit impulse signal
@@ -37,7 +36,7 @@
 [Youtube Link](https://youtu.be/cGdJjHW9_JI?si=fsByHendYA0KJ4x2)
 
 ### Numerical problems practice
-[Youtube Link](https://youtu.be/tOT5w6fVyYY?si=Y6QzAQ5G2GC7z3f2)
+#### [Youtube Link](https://youtu.be/tOT5w6fVyYY?si=Y6QzAQ5G2GC7z3f2)
 
 ## 04 : Signal operations
 
@@ -48,9 +47,10 @@
 ### Time related
 
 ### Convolution/deconvolution
-[Youtube Link](https://youtu.be/_rghMNcWfQ0?si=tQmezLBVrxXgTWOw)
+#### [Youtube Link](https://youtu.be/_rghMNcWfQ0?si=tQmezLBVrxXgTWOw)
 
-### Convolution with strides
+#### Convolution with strides
+
 ### Camparison
 ### Correlation/decorrelation
 ### Amplitude related operations
