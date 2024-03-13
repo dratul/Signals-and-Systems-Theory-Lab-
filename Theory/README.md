@@ -1,21 +1,21 @@
-# This repository is for signals and systems (Theory +Lab)
-
+# This repository is for signals and systems Theory 
+There are 6 modules
 ## Module 1 : Introduction to Signals
-https://github.com/dratul/Signals-and-Systems-Theory-Lab-/blob/main/Syllabus.pdf
+### <a href="https://github.com/dratul/Signals-and-Systems-Theory-Lab-/tree/main/Theory/Module_01" target="_blank">click to see details!</a>
 
 ## Module 2 : Introduction to Systems
-### <a href="https://github.com/dratul/Signals-and-Systems-Theory-Lab-/tree/main/Theory" target="_blank">click to see Unit details!</a>
+### <a href="https://github.com/dratul/Signals-and-Systems-Theory-Lab-/tree/main/Theory/Module_02" target="_blank">click to see details!</a>
 
 ## Module 3 : Fourier Analysis
 
-### <a href="https://github.com/dratul/Signals-and-Systems-Theory-Lab-/tree/main/Lab" target="_blank">click to see lab details!!</a>
+### <a href="https://github.com/dratul/Signals-and-Systems-Theory-Lab-/tree/main/Theory/Module_03" target="_blank">click to see details!</a>
 
 
 ## Module 4 : Laplace Analysis
-### <a href="https://youtu.be/c4fokfiygBU?list=PLKy7tXMLcgM1pjSFrbdQ1-prfhRVv4qMj" target="_blank">Lec-01 : Introduction of the subject!</a>
+### <a href="https://github.com/dratul/Signals-and-Systems-Theory-Lab-/tree/main/Theory/Module_03" target="_blank">click to see details!</a>
 
 ## Module 5 : Z Analysis
-### <a href="https://youtu.be/c4fokfiygBU?list=PLKy7tXMLcgM1pjSFrbdQ1-prfhRVv4qMj" target="_blank">Lec-01 : Introduction of the subject!</a>
+### <a href="https://github.com/dratul/Signals-and-Systems-Theory-Lab-/tree/main/Theory/Module_04" target="_blank">click to see details!</a>
 
 ## Module 6 : Sampling of Signals
-### <a href="https://youtu.be/c4fokfiygBU?list=PLKy7tXMLcgM1pjSFrbdQ1-prfhRVv4qMj" target="_blank">Lec-01 : Introduction of the subject!</a>
+### <a href="https://github.com/dratul/Signals-and-Systems-Theory-Lab-/tree/main/Theory/Module_05" target="_blank">click to see details!</a>
