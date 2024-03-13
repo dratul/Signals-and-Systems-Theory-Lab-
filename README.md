@@ -11,7 +11,7 @@ https://github.com/dratul/Signals-and-Systems-Theory-Lab-/blob/main/Syllabus.pdf
 ### <a href="https://github.com/dratul/Signals-and-Systems-Theory-Lab-/tree/main/Lab" target="_blank">click to see lab details!!</a>
 
 
-## Youtube
+## Youtube Playlist
 ### <a href="https://youtu.be/c4fokfiygBU?list=PLKy7tXMLcgM1pjSFrbdQ1-prfhRVv4qMj" target="_blank">Lec-01 : Introduction of the subject!</a>
 
 
