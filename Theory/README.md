@@ -1,10 +1,10 @@
 # This repository is for signals and systems Theory 
 There are 6 modules
 ## Module 1 : Introduction to Signals
-### <a href="https://github.com/dratul/Signals-and-Systems-Theory-Lab-/tree/main/Theory/Module_01" target="_blank">click to see details!</a>
+### <a href="https://github.com/dratul/Signals-and-Systems-Theory-Lab-/tree/main/Theory/Module_01_Signals" target="_blank">click to see details!</a>
 
 ## Module 2 : Introduction to Systems
-### <a href="https://github.com/dratul/Signals-and-Systems-Theory-Lab-/tree/main/Theory/Module_02" target="_blank">click to see details!</a>
+### <a href="https://github.com/dratul/Signals-and-Systems-Theory-Lab-/tree/main/Theory/Module_02_systems" target="_blank">click to see details!</a>
 
 ## Module 3 : Fourier Analysis
 
