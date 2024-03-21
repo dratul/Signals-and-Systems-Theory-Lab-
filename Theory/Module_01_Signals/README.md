@@ -88,7 +88,7 @@
 [Youtube Link](https://youtu.be/zvSVYHvD_gc?si=KMNZtI6p-vMm0dmW)
 #### random
 [Youtube Link](https://youtu.be/zvSVYHvD_gc?si=KMNZtI6p-vMm0dmW)
-### 5. Based on nature of variable
+### 5. Based on  Statistical nature of variable
 #### Stationary
 [Youtube Link](https://youtu.be/yq38JyePMd0?si=h83Kuxg30nai2O82)
 #### Non-Stationary
@@ -101,18 +101,23 @@
 [Youtube Link](https://youtu.be/zvSVYHvD_gc?si=KMNZtI6p-vMm0dmW)
 ### 7. Based on Symmetry
 #### Even and
+[Youtube Link](https://youtu.be/L0L_ZvwXkKU?si=bwjhung9asIL9nHp)
 #### odd
+[Youtube Link](https://youtu.be/L0L_ZvwXkKU?si=bwjhung9asIL9nHp)
 ### 8. Based on Energy/power
 #### Energy
+[Youtube Link](https://youtu.be/2IIj28bdZjA?si=YKFqlvJ7B2dd4tD0)
 #### Power
+[Youtube Link](https://youtu.be/2IIj28bdZjA?si=YKFqlvJ7B2dd4tD0)
 ### 9. Based on Causality
 #### Causal
+[Youtube Link](https://youtu.be/pvAKSkgNxLU?si=-3iPmyqM9OFVBv1O)
 #### Anti Causal
+[Youtube Link](https://youtu.be/pvAKSkgNxLU?si=-3iPmyqM9OFVBv1O)
 #### Non-causal
+[Youtube Link](https://youtu.be/pvAKSkgNxLU?si=-3iPmyqM9OFVBv1O)
 
-### 10. Based on Statistical Nature
-#### Stationary
-#### Non stationary
+
 
 
 
