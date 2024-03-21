@@ -13,7 +13,7 @@ Semester : 4
 
 Lab: Signals and Systems (BEC 451)
 
-Date of Completion 15/02/2023
+Date of Completion 21/03/2024
 
 ## Cross-correlation
 Cross-correlation is a basic signal processing method, which is used to analyze the similarity between two signals with different lags. Not only can you get an idea of how well the two signals match with each other, but you also get the point of time or an index, where they are the most similar.
