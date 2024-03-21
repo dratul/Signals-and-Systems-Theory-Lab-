@@ -13,3 +13,5 @@
 [Youtube Link2](https://youtu.be/K2nIluZfQaU?si=PXh4-Afgqh0gwBRg)
 ### Linear and Non-Linear systems
 [Youtube Link1](https://youtu.be/N14_OJKv94U?si=G9gs_zReQG2BAAtI)
+### Time varient and Time invarient systems
+[Youtube Link1](https://youtu.be/N14_OJKv94U?si=G9gs_zReQG2BAAtI)
