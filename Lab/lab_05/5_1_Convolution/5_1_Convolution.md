@@ -13,7 +13,7 @@ Semester : 4
 
 Lab: Signals and Systems (BEC 451)
 
-Date of Completion 21/03/2024
+Date of Completion 10/03/2024
 
 
 ```python
@@ -21,12 +21,12 @@ import numpy as np
 import matplotlib.pyplot as plt
 ```
 
-## Using Step by step approach 
+## Convolution Using Step by step approach 
 
 
 ```python
-x = [1, 2, 3, 1]
-h = [1, 2, 1, -1]
+x = [1, 2, 3]
+h = [1, 2, 1]
 
 size = len(x) + len(h) - 1
 
@@ -42,7 +42,7 @@ for n in range(size):
 # From Lowest Point of h(n) or x(n) to LowestPoint + ConvolutionSize
 # -1,0,1,2,3,4,5 (Total Point = ConvSize = 7)
 
-t = np.arange(-1, 6)  # Index of Convolution
+t = np.arange(-1, 4)  # Index of Convolution
 
 plt.stem(t, output)
 plt.xlabel('n')
@@ -57,14 +57,28 @@ plt.show()
     
 
 
+## Convolution using built in function
+
+
+```python
+np.convolve(x ,h)
+```
+
+
+
+
+    array([1., 4., 8., 8., 3., 0., 0., 0., 0., 0., 0., 0., 0., 0.])
+
+
+
 ## Using a separate convolution function with strides
 
 
 ```python
-def conv1D(x,w, p=0 , s=1): 
+def conv1D(x,w, p , s): 
   '''
-  x : input vector
-  w : filter
+  x : first signal
+  w : second signal
   p : padding size
   s : stride
   '''
@@ -99,38 +113,24 @@ ax1.set_xticklabels(('$1$', '$2$', '$3$'))
 ax2.stem(n,w)
 ax2.set_xticks((1,2,3))
 ax2.set_xticklabels(('$1$', '$2$', '$3$'))
-y=conv1D(x,w,2,1)
+y=conv1D(x,w,2,2)
 n=[1,2,3,4,5]
-ax3.stem(n,y,"k")
+ax3.stem(y,"k")
 ax3.set_xlabel('n->')
 ax3.set_ylabel('result of convolution->')
 ax3.set_xticks((1,2,3,4,5))
 ax3.set_xticklabels(('$1$', '$2$', '$3$', '$4$', '$5$'))
 plt.grid(color='grey', linestyle='-.', linewidth=0.5, axis='both')
-print(f'The resultant values are',y)
+print(f'The resultant values after striare',y)
 ```
 
-    The resultant values are [1. 2. 4. 3. 2.]
+    The resultant values after striare [1. 4. 2.]
     
 
 
     
-![png](output_7_1.png)
+![png](output_9_1.png)
     
-
-
-## using built in function
-
-
-```python
-np.convolve(x , w)
-```
-
-
-
-
-    array([1, 2, 4, 3, 2])
-
 
 
 
