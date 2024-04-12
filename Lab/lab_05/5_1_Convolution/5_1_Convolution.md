@@ -11,9 +11,9 @@ Branch : Electronics and Communication Engineering
 
 Semester : 4
 
-Lab: Signals and Systems (BEC 451)
+Lab: Signals and Systems (BEC 453)
 
-Date of Completion 10/03/2024
+Date of Completion.................
 
 
 ```python
@@ -25,24 +25,24 @@ import matplotlib.pyplot as plt
 
 
 ```python
-x = [1, 2, 3]
-h = [1, 2, 1]
+x = [1, 1, 2]
+h = [1, 1, 1]
 
-size = len(x) + len(h) - 1
+size = len(x)+len(h)-1
 
-x = np.concatenate([x, np.zeros(len(h))])
-h = np.concatenate([h, np.zeros(len(x))])
+xm = np.concatenate([x, np.zeros(len(h))])
+hm = np.concatenate([h, np.zeros(len(x))])
 
 output = np.zeros(size)
 
 for n in range(size):
     for k in range(n + 1):
-        output[n] += x[k] * h[n - k + 1]
+        output[n] += (xm[k] * hm[n - k + 1])
 
 # From Lowest Point of h(n) or x(n) to LowestPoint + ConvolutionSize
 # -1,0,1,2,3,4,5 (Total Point = ConvSize = 7)
-
-t = np.arange(-1, 4)  # Index of Convolution
+print(f'The resultant values are',output)
+t = np.arange(0, 5)  # Index of Convolution
 
 plt.stem(t, output)
 plt.xlabel('n')
@@ -51,9 +51,12 @@ plt.title('Convolution Result')
 plt.show()
 ```
 
+    The resultant values are [1. 2. 3. 2. 0.]
+    
+
 
     
-![png](output_3_0.png)
+![png](output_3_1.png)
     
 
 
@@ -67,9 +70,11 @@ np.convolve(x ,h)
 
 
 
-array([1., 4., 8., 8., 3., 0., 0., 0., 0., 0., 0., 0., 0., 0.])
+    array([1, 2, 4, 3, 2])
 
 
+
+Compare both results and we get that there is some problem in above program. Try to resolve and let me know. Now let us try
 
 ## Using a separate convolution function with strides
 
@@ -113,18 +118,25 @@ ax1.set_xticklabels(('$1$', '$2$', '$3$'))
 ax2.stem(n,w)
 ax2.set_xticks((1,2,3))
 ax2.set_xticklabels(('$1$', '$2$', '$3$'))
-y=conv1D(x,w,2,2)
+#padding size 2
+#strides 1
+y1=conv1D(x,w,2,1)
+
+#padding size 2
+#strides 2
+y2=conv1D(x,w,2,2)
+
 n=[1,2,3,4,5]
-ax3.stem(y,"k")
+ax3.stem(y1,"k")
 ax3.set_xlabel('n->')
 ax3.set_ylabel('result of convolution->')
 ax3.set_xticks((1,2,3,4,5))
 ax3.set_xticklabels(('$1$', '$2$', '$3$', '$4$', '$5$'))
 plt.grid(color='grey', linestyle='-.', linewidth=0.5, axis='both')
-print(f'The resultant values after striare',y)
+print(f'The resultant values after strides=2',y2)
 ```
 
-    The resultant values after striare [1. 4. 2.]
+    The resultant values after strides [1. 4. 2.]
     
 
 
