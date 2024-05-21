@@ -1,13 +1,10 @@
 # Laplace Transform
 
 ## 01 : Introduction
-[Youtube Link](https://youtu.be/RGQL9oDVZF8?si=4vG_unILMjUJbPHD)
-### Properties of Lapalce Transform
-[Youtube Link](https://youtu.be/RGQL9oDVZF8?si=4vG_unILMjUJbPHD)
-### Expamples
-[Youtube Link](https://youtu.be/RGQL9oDVZF8?si=4vG_unILMjUJbPHD)
-### Inverse Laplace Transform
-[Youtube Link](https://youtu.be/RGQL9oDVZF8?si=4vG_unILMjUJbPHD)
+[Youtube Link](https://youtu.be/dkW8wCuSrCA?si=Tp79NSq321nq6Sfq)
+### 02 :Lapalce Transform
+[Youtube Link](https://youtu.be/hHAEQa-BEPg?si=-jIU2d9WlERUByCQ)
+
 
 
 
